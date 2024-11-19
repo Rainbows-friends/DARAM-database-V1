@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/2024-g1.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/2024-g2.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/2024-g3.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/late_table_init.sql" dialect="MariaDB" />
   </component>
 </project>
