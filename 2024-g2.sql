@@ -65,7 +65,7 @@ VALUES ('정상혁', 2, 2, 15, 4, 407, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('김주은', 2, 2, 4, 4, 407, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
-VALUES ('김현', 2, 2, 6, 4, 407, 'USER', true);
+VALUES ('김현', 2, 1, 6, 4, 407, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('전민혁', 2, 1, 15, 4, 408, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
