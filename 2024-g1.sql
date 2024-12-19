@@ -127,9 +127,9 @@ VALUES ('이산', 1, 2, 9, 5, 515, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('허태희', 1, 3, 18, 5, 515, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
-VALUES ('이서희', 1, 1, 10, 5, 516, 'USER', true);
+VALUES ('이서희', 1, 1, 9, 5, 516, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
-VALUES ('배경진', 1, 2, 5, 5, 516, 'USER', true);
+VALUES ('배경진', 1, 2, 6, 5, 516, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('김봄', 1, 3, 4, 5, 517, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)

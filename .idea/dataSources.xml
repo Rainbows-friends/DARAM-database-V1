@@ -57,5 +57,12 @@
       <jdbc-url>mongodb+srv://daram.lqgji.mongodb.net/?retryWrites=true&amp;w=majority&amp;appName=DARAM</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="MySQL(Ubuntu)" uuid="23e32c27-b14f-4e6b-af49-01bcf43cadb9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://amond-server.kro.kr:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

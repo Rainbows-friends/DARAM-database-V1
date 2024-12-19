@@ -3,7 +3,7 @@ VALUES ('이승제', 3, 3, 9, 2, 203, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('이동욱', 3, 4, 12, 2, 203, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
-VALUES ('이정우', 3, 4, 11, 2, 203, 'USER', true);
+VALUES ('이정우', 3, 4, 14, 2, 203, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('오진서', 3, 2, 10, 2, 204, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
@@ -119,7 +119,7 @@ VALUES ('전예빈', 3, 1, 15, 5, 506, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('이선진', 3, 2, 12, 5, 506, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
-VALUES ('정민서', 3, 1, 15, 5, 510, 'USER', true);
+VALUES ('정민서', 3, 1, 16, 5, 510, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
 VALUES ('김하온', 3, 4, 4, 5, 511, 'USER', true);
 INSERT INTO members_table (name, grade, class, number, floor, room, role, stay)
